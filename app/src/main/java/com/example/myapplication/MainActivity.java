@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("Hello", "onCreate");
 
         Log.d("Hello Again", "onCreate");
+
+        //comment
     }
 }
