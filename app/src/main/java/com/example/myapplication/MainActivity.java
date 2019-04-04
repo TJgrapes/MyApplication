@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
         //comment
         
         //Made an edit in Github
+
+        //Made an edit in the TestFeature branch
     }
 }
